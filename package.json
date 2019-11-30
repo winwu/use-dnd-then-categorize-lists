@@ -1,0 +1,36 @@
+{
+  "name": "mylab",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "bootstrap": "4.4.1",
+    "core-js": "2.6.5",
+    "html2canvas": "1.0.0-rc.1",
+    "jquery": "3.4.1",
+    "popper.js": "1.16.0",
+    "vue": "2.6.10",
+    "vuedraggable": "2.23.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "3.7.0",
+    "@vue/cli-service": "3.7.0",
+    "babel-eslint": "10.0.1",
+    "eslint": "5.16.0",
+    "eslint-plugin-vue": "5.0.0",
+    "vue-template-compiler": "2.6.10"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
