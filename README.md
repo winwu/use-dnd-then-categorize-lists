@@ -1,8 +1,10 @@
-# a practice list for Drag and Drop 
+# A practice list for Drag and Drop 
+
+![image](https://github.com/winwu/use-dnd-then-categorize-lists/blob/master/src/assets/demo.png)
 
 a practice for categorize a list into different group, and print the result.
 
-Use packages:  please ref package.json file.
+Use packages:  please ref package.json file. 
 
 
 ## Project setup
